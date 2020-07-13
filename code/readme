@@ -1,0 +1,7 @@
+NA-MEMD-based-causal-decomposition-analysis
+
+The code is implemented in MATLAB (MathWorks Inc., Natick, MA, USA), you can run it through matlab R2017a and higher version。
+Signal Processing Toolbox is needed to run the code.
+
+An example is given（example.m）, which calculates the relative causal intensity between two Gaussian white noises by NA-MEMD base causal decomposition method.
+You can modify the example code to adapt it to your own data.
